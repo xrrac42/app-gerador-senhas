@@ -13,3 +13,5 @@ Este é um aplicativo simples de gerenciamento de senhas desenvolvido em React N
 - React Native
 - TypeScript
 - Expo
+
+
